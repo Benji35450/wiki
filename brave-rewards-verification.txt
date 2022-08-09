@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: residencefauchon.fr
+Token: 714291dc39ccdd2fbb265b911157f22b4a980e83a184370e9ffd266a3d7cb550

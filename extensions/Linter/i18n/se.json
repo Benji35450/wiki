@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yupik"
+		]
+	},
+	"linterrors": "Lint-feaillat",
+	"linter-form-namespace": "Nammagomuvuohta:",
+	"linterrors-subpage": "Lint-feaillat: $1",
+	"pageinfo-linter": "Lint-feaillat"
+}

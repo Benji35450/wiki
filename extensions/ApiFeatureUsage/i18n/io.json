@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier",
+			"JSantos"
+		]
+	},
+	"apifeatureusage": "Uzo di funcioni del API",
+	"apifeatureusage-agent-label": "Uzero-aganto:",
+	"apifeatureusage-column-date": "Dato"
+}

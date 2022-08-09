@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Tofeiku"
+		]
+	},
+	"apifeatureusage-warnings": "Amaran: $1",
+	"apifeatureusage-column-date": "Tarikh",
+	"apifeatureusage-column-uses": "Penggunaan"
+}
